@@ -61,13 +61,7 @@ git clone https://github.com/your-username/StudentManagementSystem.git
 
 6. Run the project on the server.
 
-## Screenshots
 
-Add screenshots of:
-- Login Page
-- Dashboard
-- Student List
-- Add Student Form
 
 ## Future Enhancements
 
@@ -81,4 +75,4 @@ Add screenshots of:
 
 **Ashwini Bargal**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/AshwiniBargal
